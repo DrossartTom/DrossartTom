@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @DrossartTom
-- 👀 I’m interested in programming, videogames, my doge
-- 🌱 I’m currently learning c#, js, java, sql, python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: dogs are very productive animals
+- 👋 Hi, I’m @DrossartTom  
+- 💻 Passionate about building clean, useful software with real-world impact  
+- 🌱 Continuous learning in:
+
+  **Frontend:** HTML, CSS, JavaScript, TypeScript  
+  **Backend:** C#, Java, Python, MySQL  
+
+- 🐶 I also love spending time with my dog (he’s my favorite debugging buddy)  
+- 🤝 Open to collaborating on web development or learning-focused projects  
+- 📫 Reach me via LinkedIn or email — always happy to connect!  
+- ⚡ Fun fact: Dogs make excellent rubber ducks for debugging 🐕  
+
+
 
 <!---
 DrossartTom/DrossartTom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
