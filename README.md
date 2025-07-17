@@ -1,6 +1,7 @@
 👋 Hi, I’m @DrossartTom  
 💻 Passionate about building clean, useful software with real-world impact  
 🌱 Continuous learning in:
+
   **Frontend:** HTML, CSS, JavaScript, TypeScript  
   **Backend:** C#, Java, Python, MySQL  
 🐶 I also love spending time with my dog (he’s my favorite debugging buddy)  
